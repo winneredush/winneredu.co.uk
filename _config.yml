@@ -44,7 +44,7 @@ baseurl: '/web'
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
 # urlimg: 'https://github.com/wenjunchen29/web/images/'
-urlimg: 	'https://raw.githubusercontent.com/wenjunchen29/web/6161a61f1a38c223a45d52ac759ef3b817c78766/images/'
+urlimg: 	'https://raw.githubusercontent.com/wenjunchen29/web/main/images/'
 
 
 # Logo size is 600x80 pixels
