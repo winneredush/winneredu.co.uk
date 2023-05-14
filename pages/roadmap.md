@@ -6,6 +6,8 @@ teaser              : "<em>Feeling Responsive</em> works fine. I am happy lots o
 header:
    image_fullwidth  : "header_roadmap_3.jpg"
 permalink           : "/roadmap/"
+toc: true
+
 
 # title: "Quick-Start Guide"
 # permalink: /docs/quick-start-guide/
