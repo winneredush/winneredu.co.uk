@@ -5,11 +5,11 @@
 #
 # Start development with › $ jekyll serve --config _config.yml,_config_dev.yml
 
-url: 		'https://github.com/wenjunchen29/soba-lab'
+url: 		'https://github.com/wenjunchen29/web'
 baseurl: 	''
-urlimg: 	'https://raw.githubusercontent.com/wenjunchen29/soba-lab/ca227c12e296d8d1493b3843cd8d55ba830add7f/images/'
-# urlimg: 	'https://github.com/wenjunchen29/soba-lab/images/'
-# urlfiles: 	'https://github.com/wenjunchen29/soba-lab/files/'
+urlimg: 	'https://raw.githubusercontent.com/wenjunchen29/web/ca227c12e296d8d1493b3843cd8d55ba830add7f/images/'
+# urlimg: 	'https://github.com/wenjunchen29/web/images/'
+# urlfiles: 	'https://github.com/wenjunchen29/web/files/'
 
 
 # See › https://github.com/jekyll/jekyll-gist#disabling-noscript-support

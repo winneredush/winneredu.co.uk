@@ -28,7 +28,7 @@ author: So-lab
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
 url: 'https://wenjunchen29.github.io'
-baseurl: '/soba-lab'
+baseurl: '/web'
 #url: 'https://phlow.github.io'
 #baseurl: '/feeling-responsive'
 
@@ -43,8 +43,8 @@ baseurl: '/soba-lab'
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-# urlimg: 'https://github.com/wenjunchen29/soba-lab/images/'
-urlimg: 	'https://raw.githubusercontent.com/wenjunchen29/soba-lab/6161a61f1a38c223a45d52ac759ef3b817c78766/images/'
+# urlimg: 'https://github.com/wenjunchen29/web/images/'
+urlimg: 	'https://raw.githubusercontent.com/wenjunchen29/web/6161a61f1a38c223a45d52ac759ef3b817c78766/images/'
 
 
 # Logo size is 600x80 pixels
