@@ -4,9 +4,12 @@
 # inserted automagically in the webpage. To make
 # this work, you have to use › layout: frontpage
 #
+
 layout: frontpage
+permalink: "/index/"
+
 header:
-  image_fullwidth: header_unsplash_12.jpg
+  image_fullwidth: Alex.jpg
 widget1:
   title: "Blog & Portfolio"
   url: 'http://phlow.github.io/feeling-responsive/blog/'

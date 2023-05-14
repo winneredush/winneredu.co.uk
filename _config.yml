@@ -8,13 +8,13 @@
 #                                                 /____/
 #
 # Title of your website
-title: 'Social Brain in Action Laboratory'
+title: 'Wenjun Chen'
 
 # The slogan describes your website and is used on homepage in <title> and other important places
 slogan: 'Research in the SoBA Lab explores how we perceive and interact with other agents in a social world, under the direction of Dr. Richard Ramsey & Professor Emily S. Cross'
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: 'Stampfenbachstrasse 69, Zurich 8006, SWITZERLAND'
+description: 'Songjiang Campus: No. 5 Teaching Building, No. 1550 Wenxiang Road, Shanghai, China'
 
 #description: '»Feeling Responsive« is a responsive theme for Jekyll based on the fabulous foundation framework with beautiful typography and a bright color palette.'
 
@@ -48,7 +48,7 @@ urlimg: 	'https://raw.githubusercontent.com/wenjunchen29/web/main/images/'
 
 
 # Logo size is 600x80 pixels
-logo: "logo.png"
+# logo: "logo.png"
 
 # Plugins
 plugins:
