@@ -19,7 +19,7 @@
   side: left
 
 - title: Research
-  url: "/getting-started/"
+  url: "/research/"
   side: left
 
 - title: "Publications"
@@ -116,7 +116,7 @@
 
 # - title: Research
 # #- title: Getting Started
-#   url: "/getting-started/"
+#   url: "/research/"
 #   side: left
 
 # - title: "Projects"
