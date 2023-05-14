@@ -21,6 +21,18 @@
 - title: Research
   url: "/research/"
   side: left
+  dropdown:
+  - title: "Speaker Identification"
+    url: "/research/#speaker-identification"
+  - title: "Vocal Confidence"
+    url: "/research/#vocal-confidence"
+  - title: "Voice Identity Cloning and Speech Style Cloning"
+    url: "/research/#voice-identity"
+  - title: "AI-generated Human Avatars"
+    url: "/research/#ai-generated-avatars"
+  - title: "So what are my research questions?"
+    url: "/research/#RQs"
+
 
 - title: "Publications"
   url: "/publications/"
