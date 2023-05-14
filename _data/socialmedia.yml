@@ -1,0 +1,51 @@
+
+- name: Twitter of Emili S. Cross
+  url: https://twitter.com/brain_on_dance
+  class: icon-twitter
+  title: "Emili S. Cross"
+  
+- name: Twitter of Richard Ramsey
+  url: https://twitter.com/RichRamseyPhD
+  class: icon-twitter
+  title: "Emili S. Cross"
+  
+
+# - name: GitHub
+#   url: https://github.com/wenjunchen29
+#   class: icon-github
+#   title: "Here you will find my programming codes."
+
+# - name: YouTube
+#   url: https://www.youtube.com/channel/UCotKctz2C9rud1g5UyzTs7g
+#   class: icon-youtube
+#   title: "Here you may find my uploaded videos."
+
+# - name: Mixcloud
+#   url: http://www.mixcloud.com/phlow/
+#   class: icon-cloud
+#   title: "Mixe, was sonst?"
+
+# - name: Facebook
+#   url: https://www.facebook.com/alex.chan.2926/
+#   class: icon-facebook
+#   title: "My Facebook"
+
+# - name: Soundcloud
+#   url: http://soundcloud.com/
+#   class: icon-soundcloud
+#   title: ""
+
+# - name: Instagram
+#   url: http://instagram.com/
+#   class: icon-instagram
+#   title: ""
+
+# - name: Pinterest
+#   url: http://www.pinterest.com/
+#   class: icon-pinterest
+#   title: ""
+
+# - name: Xing
+#   url: https://www.xing.com/profile/
+#   class: icon-xing
+#   title: Xing Profil

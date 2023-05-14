@@ -1,0 +1,21 @@
+# Author details
+#
+# 1. Edit information below
+# 2. Change site author in config.yml
+# 3. Change default post/page authors in config.yml
+#
+# Resource › http://blog.sorryapp.com/blogging-with-jekyll/2014/02/06/adding-authors-to-your-jekyll-site.html
+So-lab: # replace this with your info
+  name: "Prof. Dr. Emily S. Cross"
+  siterole: "PI of the Laboratory"
+  uri: https://gess.ethz.ch/en/the-department/people/person-detail.MzE2ODc2.TGlzdC81MTMsNjE4MTIwODY=.html
+  email: "emily.cross@gess.ethz.ch"
+  twitter: "@brain_on_dance"
+# you can add more authors here
+
+  name: "Dr. Richard Ramsey"
+  siterole: "PI of the Laboratory"
+  uri: https://hest.ethz.ch/en/department/people/people-a-z/personen-detail.MzIxMTQy.TGlzdC8zMzQsLTQ1MTk1NTQ5OA==.html
+  email: "richard.ramsey@hest.ethz.ch"
+  twitter: "@RichRamseyPhD"
+# you can add more authors here

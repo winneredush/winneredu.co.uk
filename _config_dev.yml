@@ -1,0 +1,29 @@
+#
+# This config-file is only needed for development. Instead of changing the url
+# everytime you work locally on the project, you start both config-files, overwriting
+# the first one with the development variables needed.
+#
+# Start development with › $ jekyll serve --config _config.yml,_config_dev.yml
+
+url: 		'https://github.com/wenjunchen29/soba-lab'
+baseurl: 	''
+urlimg: 	'https://raw.githubusercontent.com/wenjunchen29/soba-lab/ca227c12e296d8d1493b3843cd8d55ba830add7f/images/'
+# urlimg: 	'https://github.com/wenjunchen29/soba-lab/images/'
+# urlfiles: 	'https://github.com/wenjunchen29/soba-lab/files/'
+
+
+# See › https://github.com/jekyll/jekyll-gist#disabling-noscript-support
+gist:
+  noscript: false
+
+sass:
+  # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
+  style: :expanded
+  line_numbers: true
+  # trace_selectors: true
+  # debug_info: true
+  # FUTURE https://github.com/jekyll/jekyll-sass-converter/issues/12
+  # sourcemap: true # Produces an error
+
+# Disable when not in production
+google_analytics_tracking_id: false
