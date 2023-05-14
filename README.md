@@ -33,11 +33,11 @@ Feeling Responsive is heavily customizable.
 
 
 
-## talks
+## projects
 
 *Feeling Responsive* is in active development. Thank you to everyone who contributed, especially [Róbert Papp][5], [Alexandra von Criegern](https://github.com/plutonik-a) and [Juan Jose Amor Iglesias](https://github.com/jjamor).
 
-**[Read talks ›][6]**
+**[Read projects ›][6]**
 
 
 
@@ -59,7 +59,7 @@ Click the image to [watch the YouTube-Video-Tutorial][4].
  [3]: http://phlow.github.io/feeling-responsive/info/
  [4]: https://www.youtube.com/watch?v=rLS-BEvlEyY
  [5]: https://github.com/TWiStErRob
- [6]: https://phlow.github.io/feeling-responsive/talks/
+ [6]: https://phlow.github.io/feeling-responsive/projects/
  [7]: http://phlow.github.io/feeling-responsive/
  [8]: http://phlow.github.io/simplicity/
  [9]: #

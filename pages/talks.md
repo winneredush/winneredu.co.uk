@@ -1,13 +1,13 @@
 ---
 layout: page-fullwidth
 title: "Change is good!"
-# meta_title: "Feeling Responsive Theme talks"
-# subheadline: "Feeling Responsive Theme talks"
-teaser: "History and talks of Feeling Responsive Theme"
+# meta_title: "Feeling Responsive Theme projects"
+# subheadline: "Feeling Responsive Theme projects"
+teaser: "History and projects of Feeling Responsive Theme"
 header:
   #  image_fullwidth: "header_unsplash_9.jpg"
    image_fullwidth: "Full-piece-pink-and-purple.jpg"
-permalink: "/talks/"
+permalink: "/projects/"
 ---
 
 2015-02-26 // Version 1.0

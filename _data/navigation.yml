@@ -74,8 +74,8 @@
 #   - title: "No Header but Image"
 #     url: "/publications/no-header-but-image/"
 
-- title: "Talks"
-  url: "/talks/"
+- title: "Projects"
+  url: "/projects/"
   side: left
 
 - title: Roadmap
@@ -83,8 +83,8 @@
   url: "/roadmap/"
   side: left
   # dropdown:
-  # - title: "Talks"
-  #   url: "/talks/"
+  # - title: "projects"
+  #   url: "/projects/"
   # - title: "Roadmap"
   #   url: "/roadmap/"
 
@@ -170,8 +170,8 @@
 #   url: "/documentation/"
 #   side: left
 #   dropdown:
-#   - title: "talks"
-#     url: "/talks/"
+#   - title: "projects"
+#     url: "/projects/"
 #   - title: "Roadmap"
 #     url: "/roadmap/"
 
