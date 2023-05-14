@@ -8,6 +8,8 @@ header:
 permalink: "/publications/"
 
 ---
+ [pdf-CN](/files/CN_A%20Social%20Psycholinguistics%20Perspective_Encoding%20and%20Decoding%20Mechanisms%20for%20Speakers%20Individual%20and%20Group%20Identities.pdf)
+---
 
 <div id="publications">
   <h2>Publications</h2>
@@ -22,7 +24,7 @@ permalink: "/publications/"
     <li><strong>Chen, W</strong>., Hu, Y. & Jiang, X. (In Press). A social psycholinguistics perspective: encoding and decoding mechanisms for speakers’ individual and group identities. <em>The Journal of Foreign Languages</em>. 
     <a href="https://scholar.google.co.uk/citations?view_op=view_citation&hl=zh-TW&user=iF2CM7sAAAAJ&sortby=pubdate&citation_for_view=iF2CM7sAAAAJ:DwWRdx-KAo4C"><span style="background-color:yellow">Google Scholar</span> | <a href="https://scholar.google.co.uk/citations?view_op=view_citation&hl=zh-TW&user=iF2CM7sAAAAJ&sortby=pubdate&citation_for_view=iF2CM7sAAAAJ:DwWRdx-KAo4C"><span style="background-color:green">pdf</span>
   <u1>
-
+ 
   <!-- </ul>
   <h3 id="2022">2022</h3>
   <ul>
