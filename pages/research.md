@@ -49,7 +49,7 @@ sitemap: false
 <script>
 var research_interests = [
     {text: 'Text for Research Interest 1', image: 'https://raw.githubusercontent.com/wenjunchen29/web/main/images/gallery-example-1.jpg'},
-    {text: 'Text for Research Interest 2', image: 'https://raw.githubusercontent.com/wenjunchen29/web/main/images/gallery-example-1.jpg'},
+    {text: 'Text for Research Interest 2222222', image: 'https://raw.githubusercontent.com/wenjunchen29/web/main/images/gallery-example-1.jpg'},
     {text: 'Text for Research Interest 3', image: 'https://raw.githubusercontent.com/wenjunchen29/web/main/images/gallery-example-1.jpg'},
     {text: 'Text for Research Interest 4', image: 'https://raw.githubusercontent.com/wenjunchen29/web/main/images/gallery-example-1.jpg'},
     {text: 'Text for Research Interest 5', image: 'https://raw.githubusercontent.com/wenjunchen29/web/main/images/gallery-example-1.jpg'},
