@@ -8,27 +8,59 @@ header:
    image_fullwidth  : "header_homepage_13.jpg"
 permalink           : "/research/"
 ---
-1. Open `_config.yml` and work it through, it's well documented.
-1. Add your own `logo.png` to `/assets/img/`.
-1. Add your own social media links and open `_data/socialmedia.yml`.
-1. Open `_sass/_01_settings_colors.scss` and adjust the the colors to your taste.
-1. Customize your navigation and open `_data/navigation.yml`.
-1. Translate this theme and open `_data/language.yml`.
-1. Change the links in the footer and open `_data/services.yml` and `_data/network.yml`.
-1. Open `_data/authors.yml` and edit author information and set default author in `config.yml`.
-1. Make it yours and add your own content.
-1. [Read the documentation][1] to check out all features of *Feeling Responsive*.
+ **<font size="5"><span style="color:blue">Speaker Identification</span></font>**
 
-<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/documentation/">Check out the documentation for all the tricks ›</a>
+ Have you ever wondered how you can <span style="color:green">*recognize someone’s voice**</span> even if you don’t see their face? How do you know who is speaking when you listen to a podcast or a phone call? How can machines do the same thing? These are some of the questions that speaker identification tries to answer. Speaker identification is the task of determining who is speaking in an audio clip by using voice biometry. It is based on the idea that each speaker has unique voice characteristics that can be extracted and compared with a set of enrolled speaker profiles. Speaker identification can be useful for various applications, such as remote meeting productivity, multiuser device personalization, and forensic analysis. In this website, I will introduce some of the methods and challenges of speaker identification, and refer to some journal papers on this topic, such as [Perrachione et al. (2011)](https://www.science.org/doi/abs/10.1126/science.1207327), who showed that human voice recognition depends on language ability.
 
+<div class="flex-video"><iframe width="1280" height="720" src="https://www.youtube.com/embed/YCxPI8ckAXg" frameborder="0" allowfullscreen></iframe></div><!-- /.flex-video -->
 
- **<font size="5"><span style="color:blue">Speaker Identitifcation</span></font>**
+<div id="videoModal" class="reveal-modal large" data-reveal="">
+  <div class="flex-video widescreen vimeo" style="display: block;">
+    <iframe width="1280" height="720" src="https://www.youtube.com/embed/YCxPI8ckAXg" frameborder="0" allowfullscreen></iframe>
+  </div>
+  <a class="close-reveal-modal">&#215;</a>
+</div>
 
-Myriad opportunities exist for getting involved in SoBA Lab research, whether for a short stint or a longer term engagement. We are a diverse, fun, and energetic bunch, who welcome all comers to join in the social neuroscience and social robotics party! Opportunities to get involved in the SoBA Lab include, but are not limited to:
+ **<font size="5"><span style="color:blue">Vocal Confidence</span></font>**
 
+How do you sound when you speak? Do you sound confident and convincing, or doubtful and hesitant? How does your voice affect how others perceive you and your message? These are some of the questions that vocal confidence tries to answer. Vocal confidence is the expression of certainty, reliability, or truthfulness in one’s voice. It is based on the idea that voice is a powerful tool for communication and persuasion, and that it can convey subtle cues about the speaker’s attitude, emotion, and personality. Vocal confidence can be useful for various situations, such as public speaking, job interviews, negotiations, and social interactions. In this website, I will introduce some of the methods and challenges of vocal confidence, and refer to some journal papers on this topic, such as [Jiang and Pell (2017)](https://www.sciencedirect.com/science/article/abs/pii/S0167639316301509), who showed how voice and accent information influence listeners’ belief in spoken statements.
 
-Have you ever wondered how you can <span style="color:green">*recognize someone’s voice**</span> even if you don’t see their face? How do you know who is speaking when you listen to a podcast or a phone call? How can machines do the same thing? These are some of the questions that speaker identification tries to answer. Speaker identification is the task of determining who is speaking in an audio clip by using voice biometry. It is based on the idea that each speaker has unique voice characteristics that can be extracted and compared with a set of enrolled speaker profiles. Speaker identification can be useful for various applications, such as remote meeting productivity, multiuser device personalization, and forensic analysis. In this website, I will introduce some of the methods and challenges of speaker identification, and refer to some journal papers on this topic, such as [Perrachione et al. (2011)](https://www.science.org/doi/abs/10.1126/science.1207327), who showed that human voice recognition depends on language ability1.
+<div class="flex-video"><iframe width="1280" height="720" src="https://www.youtube.com/embed/5YVV6enLISU" frameborder="0" allowfullscreen></iframe></div><!-- /.flex-video -->
 
+<div id="videoModal" class="reveal-modal large" data-reveal="">
+  <div class="flex-video widescreen vimeo" style="display: block;">
+    <iframe width="1280" height="720" src="https://www.youtube.com/embed/5YVV6enLISU" frameborder="0" allowfullscreen></iframe>
+  </div>
+  <a class="close-reveal-modal">&#215;</a>
+</div>
 
+ **<font size="5"><span style="color:blue">Voice Identity Cloning and Speech Style Cloning</span></font>**
 
+Imagine if you could make anyone say anything you want with just a few clicks. Sounds like science fiction, right? Well, not anymore. Thanks to advances in artificial intelligence and machine learning, it is now possible to create realistic voice clones of any person, even if they never said those words before. This is called voice deep fake, and it is a type of synthetic media that can be used for various purposes, such as entertainment, education, and impersonation. Voice deep fake is a technology that uses neural networks to analyze a person’s voice and generate new speech sentences that sound like them. It can also modify existing speech recordings to change the content, tone, or accent of the speaker. Voice deep fake can create convincing voice impersonations of celebrities, politicians, friends, or even yourself. In this website, I will introduce some of the methods and challenges of voice deep fake, and refer to some journal papers on this topic, such as [Wu et al. (2023)](https://www.sciencedirect.com/science/article/pii/S0045790622007492), who proposed a real-time Chinese voice style clone system called VStyclone.
 
+<div class="flex-video"><iframe width="1280" height="720" src="https://www.youtube.com/embed/nb3R30b-uhc" frameborder="0" allowfullscreen></iframe></div><!-- /.flex-video -->
+
+<div id="videoModal" class="reveal-modal large" data-reveal="">
+  <div class="flex-video widescreen vimeo" style="display: block;">
+    <iframe width="1280" height="720" src="https://www.youtube.com/embed/nb3R30b-uhc" frameborder="0" allowfullscreen></iframe>
+  </div>
+  <a class="close-reveal-modal">&#215;</a>
+</div>
+
+ **<font size="5"><span style="color:blue">AI-generated human avatars</span></font>**
+
+Digital People Text-to-Video is a technology that allows users to create realistic and engaging videos with AI-generated human avatars. Users can simply type in their text and choose from a variety of digital humans to create a professional video in minutes. Some examples of companies that offer this technology are D-ID and Synthesia. They claim that their technology can be used for various purposes, such as training videos, marketing videos, virtual assistants, and more. They also emphasize their ethical standards and content moderation policies to ensure the authenticity and security of their videos. 
+
+<div class="flex-video"><iframe width="1280" height="720" src="https://www.youtube.com/embed/eL2W_2_fQ1M" frameborder="0" allowfullscreen></iframe></div><!-- /.flex-video -->
+
+<div id="videoModal" class="reveal-modal large" data-reveal="">
+  <div class="flex-video widescreen vimeo" style="display: block;">
+    <iframe width="1280" height="720" src="https://www.youtube.com/embed/eL2W_2_fQ1M" frameborder="0" allowfullscreen></iframe>
+  </div>
+  <a class="close-reveal-modal">&#215;</a>
+</div>
+
+ **<font size="5"><span style="color:blue">So what are my research questions? </span></font>**
+ 
+How to measure the style and identity cloning?
+How human perceive?
