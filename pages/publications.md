@@ -8,8 +8,7 @@ header:
 permalink: "/publications/"
 
 ---
- [pdf-CN](/files/CN_A%20Social%20Psycholinguistics%20Perspective_Encoding%20and%20Decoding%20Mechanisms%20for%20Speakers%20Individual%20and%20Group%20Identities.pdf)
----
+<!-- https://raw.githubusercontent.com/wenjunchen29/web/ca227c12e296d8d1493b3843cd8d55ba830add7f/images/logo.png -->
 
 <div id="publications">
   <h2>Publications</h2>
@@ -22,7 +21,7 @@ permalink: "/publications/"
   <h3 id="In Press / 2023">In Press / 2023</h3>
   <u1>
     <li><strong>Chen, W</strong>., Hu, Y. & Jiang, X. (In Press). A social psycholinguistics perspective: encoding and decoding mechanisms for speakers’ individual and group identities. <em>The Journal of Foreign Languages</em>. 
-    <a href="https://scholar.google.co.uk/citations?view_op=view_citation&hl=zh-TW&user=iF2CM7sAAAAJ&sortby=pubdate&citation_for_view=iF2CM7sAAAAJ:DwWRdx-KAo4C"><span style="background-color:yellow">Google Scholar</span> | <a href="https://scholar.google.co.uk/citations?view_op=view_citation&hl=zh-TW&user=iF2CM7sAAAAJ&sortby=pubdate&citation_for_view=iF2CM7sAAAAJ:DwWRdx-KAo4C"><span style="background-color:green">pdf</span>
+    <a href="https://scholar.google.co.uk/citations?view_op=view_citation&hl=zh-TW&user=iF2CM7sAAAAJ&sortby=pubdate&citation_for_view=iF2CM7sAAAAJ:DwWRdx-KAo4C"><span style="background-color:yellow">Google Scholar</span> | <a href="https://raw.githubusercontent.com/wenjunchen29/web/40774f46ccd4160a277211f0ede2b4d6d473331d/files/CN.pdf"><span style="background-color:yellow">pdf in Chinese</span> | <a href="https://raw.githubusercontent.com/wenjunchen29/web/40774f46ccd4160a277211f0ede2b4d6d473331d/files/EN.pdf"><span style="background-color:yellow">pdf in English</span>
   <u1>
  
   <!-- </ul>
