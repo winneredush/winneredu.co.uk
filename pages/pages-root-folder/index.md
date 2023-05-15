@@ -9,7 +9,7 @@ layout: frontpage
 permalink: "/index/"
 
 header:
-  image_fullwidth: Alex.jpg
+  image_fullwidth: header_unsplash_12.jpg
 widget1:
   title: "Blog & Portfolio"
   url: 'http://phlow.github.io/feeling-responsive/blog/'

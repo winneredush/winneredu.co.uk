@@ -90,15 +90,15 @@
   url: "/projects/"
   side: left
 
-- title: Roadmap
+- title: Bibliography
 #- title: Documentation
-  url: "/roadmap/"
+  url: "/bibliography/"
   side: left
   # dropdown:
   # - title: "projects"
   #   url: "/projects/"
-  # - title: "Roadmap"
-  #   url: "/roadmap/"
+  # - title: "bibliography"
+  #   url: "/bibliography/"
 
 - title: Open Science
 #- title: Blog
@@ -184,8 +184,8 @@
 #   dropdown:
 #   - title: "projects"
 #     url: "/projects/"
-#   - title: "Roadmap"
-#     url: "/roadmap/"
+#   - title: "bibliography"
+#     url: "/bibliography/"
 
 # - title: Having Fun
 # #- title: Blog

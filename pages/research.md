@@ -24,11 +24,6 @@ permalink           : "/research/"
 <h2 id="speaker-identification"><font size="5"><span style="color:blue">Speaker Identification</span></font> <a href="#table-of-contents" style="font-size:10px;">(back to top)</a></h2>
  Have you ever wondered how you can <span style="color:green">*recognize someone’s voice**</span> even if you don’t see their face? How do you know who is speaking when you listen to a podcast or a phone call? How can machines do the same thing? These are some of the questions that speaker identification tries to answer. Speaker identification is the task of determining who is speaking in an audio clip by using voice biometry. It is based on the idea that each speaker has unique voice characteristics that can be extracted and compared with a set of enrolled speaker profiles. Speaker identification can be useful for various applications, such as remote meeting productivity, multiuser device personalization, and forensic analysis. In this website, I will introduce some of the methods and challenges of speaker identification, and refer to some journal papers on this topic, such as <a href="https://www.science.org/doi/abs/10.1126/science.1207327"><span style="background-color:yellow">Perrachione et al. (2011)</span></a>, who showed that human voice recognition depends on language ability.
 
-
-
-
-
-
 <div class="flex-video"><iframe width="1280" height="720" src="https://www.youtube.com/embed/YCxPI8ckAXg" frameborder="0" allowfullscreen></iframe></div><!-- /.flex-video -->
 
 <div id="videoModal" class="reveal-modal large" data-reveal="">
@@ -37,6 +32,7 @@ permalink           : "/research/"
   </div>
   <a class="close-reveal-modal">&#215;</a>
 </div>
+
 
 <h2 id="vocal-confidence"><font size="5"><span style="color:blue">Vocal Confidence</span></font> <a href="#table-of-contents" style="font-size:10px;">(back to top)</a></h2>
 How do you sound when you speak? Do you sound confident and convincing, or doubtful and hesitant? How does your voice affect how others perceive you and your message? These are some of the questions that vocal confidence tries to answer. Vocal confidence is the expression of certainty, reliability, or truthfulness in one’s voice. It is based on the idea that voice is a powerful tool for communication and persuasion, and that it can convey subtle cues about the speaker’s attitude, emotion, and personality. Vocal confidence can be useful for various situations, such as public speaking, job interviews, negotiations, and social interactions. In this website, I will introduce some of the methods and challenges of vocal confidence, and refer to some journal papers on this topic, such as <a href="https://www.sciencedirect.com/science/article/abs/pii/S0167639316301509"><span style="background-color:yellow">Jiang and Pell (2017)</span></a>, who showed how voice and accent information influence listeners’ belief in spoken statements.
