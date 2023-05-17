@@ -18,6 +18,17 @@
   url: "/index/"
   side: left
 
+- title: About me
+#- title: Documentation
+  url: "/about me/"
+  side: left
+  # dropdown:
+  # - title: "projects"
+  #   url: "/projects/"
+  # - title: "about me"
+  #   url: "/about me/"
+
+
 - title: Research
   url: "/research/"
   side: left
@@ -89,16 +100,6 @@
 - title: "Projects"
   url: "/projects/"
   side: left
-
-- title: Bibliography
-#- title: Documentation
-  url: "/bibliography/"
-  side: left
-  # dropdown:
-  # - title: "projects"
-  #   url: "/projects/"
-  # - title: "bibliography"
-  #   url: "/bibliography/"
 
 - title: Open Science
 #- title: Blog
@@ -184,8 +185,8 @@
 #   dropdown:
 #   - title: "projects"
 #     url: "/projects/"
-#   - title: "bibliography"
-#     url: "/bibliography/"
+#   - title: "about me"
+#     url: "/about me/"
 
 # - title: Having Fun
 # #- title: Blog
