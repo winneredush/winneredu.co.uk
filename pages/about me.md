@@ -4,7 +4,7 @@ title               : "About me"
 # subheadline         : "ToDo-List &amp; Ideas"
 teaser              : 
 header:
-   image_fullwidth  : "header_roadmap_3.png"
+   image_fullwidth  : "About_me.jpg"
 permalink           : "/about me/"
 toc: true
 #  **<font size="5"><span style="color:blue">Interested in joining the SoBA Lab?</span></font>**
