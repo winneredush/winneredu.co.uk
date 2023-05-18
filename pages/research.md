@@ -11,7 +11,7 @@ permalink           : "/research/"
 
 <body>
 
-<h1 id="table-of-contents">Table of Contents</h1>
+<h1 id="table-of-contents">Relevant Research Topics</h1>
 <ol>
   <li><a href="#speaker-identification">Speaker Identification</a></li>
   <li><a href="#vocal-confidence">Vocal Confidence</a></li>
