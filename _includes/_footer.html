@@ -13,7 +13,7 @@
 
             <p class="shadow-black">
               {{ site.description }}
-              <a href="{{ site.url }}{{ site.baseurl }}/info/">{{ site.data.language.more }}</a>
+              <!-- <a href="{{ site.url }}{{ site.baseurl }}/info/">{{ site.data.language.more }}</a> -->
             </p>
           </div><!-- /.large-6.columns -->
 
@@ -55,21 +55,22 @@
         </div><!-- /.row -->
 
       </div><!-- /#footer -->
+    </footer> 
 
+    <!-- 以下是最下方推特图标的图案，此时全部注释掉；上面的footer是05.18粘贴的；如果加回下面注释，就俩footer，删上面；最后两行删除会串；倒数第二的左右括号用aa代替 --> 
+    <!-- <div id="subfooter">
+      <nav class="row">
+        <section id="subfooter-left" class="small-12 medium-6 columns credits">
+          {{ site.credits }}
+        </section>
 
-      <div id="subfooter">
-        <nav class="row">
-          <section id="subfooter-left" class="small-12 medium-6 columns credits">
-            {{ site.credits }}
-          </section>
-
-          <section id="subfooter-right" class="small-12 medium-6 columns">
-            <ul class="inline-list social-icons">
-            {% for social_item in site.data.socialmedia %}
-              <li><a href="{{ social_item.url }}" target="_blank" class="{{ social_item.class }}" title="{{ social_item.title }}"></a></li>
-            {% endfor %}
-            </ul>
-          </section>
-        </nav>
-      </div><!-- /#subfooter -->
-    </footer>
+        <section id="subfooter-right" class="small-12 medium-6 columns">
+          <ul class="inline-list social-icons">
+          {% for social_item in site.data.socialmedia %}
+            <li><a href="{{ social_item.url }}" target="_blank" class="{{ social_item.class }}" title="{{ social_item.title }}"></a></li>
+          {% endfor %}
+          </ul>
+        </section>
+      </nav>
+    </div>a!-- /#subfooter --a
+  </footer> -->

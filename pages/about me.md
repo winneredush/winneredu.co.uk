@@ -1,6 +1,6 @@
 ---
 layout              : page-fullwidth
-title               : "About me"
+# title               : "About me"
 # subheadline         : "ToDo-List &amp; Ideas"
 teaser              : 
 header:
@@ -64,8 +64,5 @@ As a foundation, I have prepared audio clips by both humans and the correspondin
 With the validated human and AI voices, I move to social cognition by naive human listeners, which is to be performed from May 2023 to May 2024. Firstly, how do speech prosodies mediate people’s perception of AI and human voices? This is to be reflected in the behavioural responses on the 7-Likert scale. I will be circling around ‘speaker identity’ and performing two studies. So, secondly, do people process human and AI identities in a similar manner? This is to be answered with the classic AxB paradigm while also taking prosodies into account. Then it comes to my dissertation, in which I will employ the training-testing paradigm, where listeners would learn the identity of a specific speaker and be tested on their learning outcomes. Here, I will use data from the electroencephalogram (EEG) to perform ERP analysis, source localisation, time-frequency analysis, and possibly entrainment analysis. 
 
 Since I’m currently working on only the modality of auditory, I do value the possibility of moving to multimodality. And this leads me to my initial interest in AI-generated human avatars, which has been seen and expected to see, thanks to the prevalence of the game changer - ChatGPT, increasing applications in our human society. But less is known about what challenges it might bring to human beings’ social cognition patterns in social interaction. Also, I suppose exposures and interactions, as two learning engagements, might play a part that shapes’ a human being’s specific social cognition of these avatars. Yet, these are merely preliminary thoughts subject to changes and await experimental evidence and theoretical support. 
-
-Click for my CV, biography, and more details about my current lab affiliation and research interests publications.
-
 
 ---
