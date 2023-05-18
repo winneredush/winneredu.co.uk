@@ -2,7 +2,7 @@
 layout              : page-fullwidth
 title               : "About me"
 # subheadline         : "ToDo-List &amp; Ideas"
-teaser              : "Keywords: AI voice-cloning; Speaker identity; Vocal confidence; AI-generated avatar; Learning; EEG; fMRI"
+teaser              : 
 header:
    image_fullwidth  : "header_roadmap_3.jpg"
 permalink           : "/about me/"
@@ -12,10 +12,10 @@ toc: true
 
 <div class="batch">
   <img src="{{ site.urlimg }}Alex_photo_1.jpg" alt="">
-  <p class="text">I’m a second-year postgraduate (2/3 years) student at the Institute of Linguistics, <a href="https://en.wikipedia.org/wiki/Shanghai_International_Studies_University">Shanghai International Studies University</a>. I opted for speech prosody-related psycho- and neuro-linguistics as my research domain for this linguistics degree but didn’t confine my effort only here. For my current Master’s degree, I am conducting a list of research to understand social cognition, particularly when language as a bond in both human-human interaction (HHI) and human-robot interaction (HRI) is involved in the era of algorithms. Among many social cognition domains, I focus on speaker identity, namely, <a href="https://www.science.org/doi/abs/10.1126/science.1210277">‘who is talking’</a>? My postgraduate dissertation is to explore the neuro-correlates of human listeners when they <a href="https://www.jneurosci.org/content/34/33/10821.short"><span style="background-color:yellow">learn and recognise</span></a> the speaker identities they had been trained to be familiar with. In my study, the role the variable speakers’ group identity being human or AI-generated speakers plays will be addressed.<br/> <br/> <a href="https://raw.githubusercontent.com/wenjunchen29/web/40774f46ccd4160a277211f0ede2b4d6d473331d/files/CV_Wenjun_CHEN.pdf" target="_blank">CV</a>
- </p>
-</div>
+  <p class="text">I completed my BA in Business English (specialising in linguistics after my sophomore year) at Heilongjiang University. I am doing my 3-year master’s degree in Psycholinguistics at <em>Shanghai International Studies University</em>. My current studies aim to address how people auditorily perceive speech varied from speaker sources (human vs. AI) and prosodies. I used to be a Kungfu player and was an active member of the Sanda (a bit like Muay Thai) Team of Heilongjiang University and had fought in the national championship. I would also spend some of my spare time in the swimming pool. Oh, you can find me tuning in to Live Radios such as <em>Heart London</em> or <em>LBC</em> from time to time, too.  <em>Vikings</em>, <em>Westworld</em>, <em>Le Bureau des Légendes</em>, have made it to my top three favourite TV series so far. I wish to be a globe-trotter and am working on it. <br/> <br/> <a href="https://raw.githubusercontent.com/wenjunchen29/web/main/files/CV_Wenjun_CHEN.pdf" target="_blank" style="text-decoration: underline; text-underline-offset: 3px;">CV</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://scholar.google.co.uk/citations?user=MOPUcx8AAAAJ&hl=zh-TW" target="_blank" style="text-decoration: underline; text-underline-offset: 3px;">Google Scholar</a>
 
+ </p>     
+</div>
 <style>
 .batch {
   background-color: lightblue;
@@ -40,6 +40,8 @@ img {
 
 
 ---
+
+**Keywords:** AI voice-cloning; Speaker identity; Vocal confidence; AI-generated avatar; Learning; EEG; fMRI
 
 I’m a second-year postgraduate (2/3 years) student at the Institute of Linguistics, <a href="https://en.wikipedia.org/wiki/Shanghai_International_Studies_University">Shanghai International Studies University</a>. I opted for speech prosody-related psycho- and neuro-linguistics as my research domain for this linguistics degree but didn’t confine my effort only here. For my current Master’s degree, I am conducting a list of research to understand social cognition, particularly when language as a bond in both human-human interaction (HHI) and human-robot interaction (HRI) is involved in the era of algorithms. Among many social cognition domains, I focus on speaker identity, namely, <a href="https://www.science.org/doi/abs/10.1126/science.1210277">‘who is talking’</a>? My postgraduate dissertation is to explore the neuro-correlates of human listeners when they <a href="https://www.jneurosci.org/content/34/33/10821.short"><span style="background-color:yellow">learn and recognise</span></a> the speaker identities they had been trained to be familiar with. In my study, the role the variable speakers’ group identity being human or AI-generated speakers plays will be addressed.
 
