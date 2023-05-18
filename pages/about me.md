@@ -8,6 +8,33 @@ header:
 permalink           : "/about me/"
 toc: true
 #  **<font size="5"><span style="color:blue">Interested in joining the SoBA Lab?</span></font>**
+---
+
+<div class="batch">
+  <img src="{{ site.urlimg }}Alex_photo_1.jpg" alt="">
+  <p class="text">I’m a second-year postgraduate (2/3 years) student at the Institute of Linguistics, <a href="https://en.wikipedia.org/wiki/Shanghai_International_Studies_University">Shanghai International Studies University</a>. I opted for speech prosody-related psycho- and neuro-linguistics as my research domain for this linguistics degree but didn’t confine my effort only here. For my current Master’s degree, I am conducting a list of research to understand social cognition, particularly when language as a bond in both human-human interaction (HHI) and human-robot interaction (HRI) is involved in the era of algorithms. Among many social cognition domains, I focus on speaker identity, namely, <a href="https://www.science.org/doi/abs/10.1126/science.1210277">‘who is talking’</a>? My postgraduate dissertation is to explore the neuro-correlates of human listeners when they <a href="https://www.jneurosci.org/content/34/33/10821.short"><span style="background-color:yellow">learn and recognise</span></a> the speaker identities they had been trained to be familiar with. In my study, the role the variable speakers’ group identity being human or AI-generated speakers plays will be addressed.</p>
+</div>
+
+<style>
+.batch {
+  background-color: lightblue;
+  margin: 20px;
+  display: flex;
+}
+
+img {
+  width: 200px;
+  height: 250px;
+  flex-basis: 30%;
+}
+
+.text {
+  font-size: 16px;
+  margin: 10px;
+  flex-basis: 70%;
+}
+</style>
+
 
 ---
 

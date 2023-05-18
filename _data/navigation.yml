@@ -14,9 +14,9 @@
 #   side: left
 
 
-- title: Home
-  url: "/index/"
-  side: right
+# - title: Home
+#   url: "/index/"
+#   side: right
 
 - title: About me
 #- title: Documentation
@@ -47,6 +47,15 @@
 - title: Research Projects
   url: "/projects/"
   side: right
+  dropdown:
+  - title: "AI and Human Speech"
+    url: "/research/#speaker-identification"
+  - title: "Audio Analysis"
+    url: "/research/#speaker-identification"
+  - title: "Perception Studies"
+    url: "/research/#speaker-identification"
+  - title: "AX Discrimination"
+    url: "/research/#speaker-identification"
 
 
 - title: Publications
