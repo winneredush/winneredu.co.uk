@@ -3,6 +3,8 @@ layout              : page-fullwidth
 title               : "Contact"
 #meta_title          : "Contact and use our contact form"
 #subheadline         : "Contact Form"
+header:
+   image_fullwidth: "Full-piece-pink-and-purple.jpg"
 teaser              : "Let's keep in touch!"
 permalink           : "/contact/"
 ---

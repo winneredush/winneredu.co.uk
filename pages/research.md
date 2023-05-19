@@ -5,7 +5,7 @@ show_meta           : false
 # subheadline         : "A Step-by-Step Guide"
 # teaser              : "This step-by-step guide helps you to customize Feeling Responsive to your needs."
 header:
-   image_fullwidth  : "header_homepage_13.jpg"
+   image_fullwidth: "Full-piece-pink-and-purple.jpg"
 permalink           : "/research/"
 ---
 
