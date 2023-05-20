@@ -6,7 +6,8 @@ teaser              :
 header:
    image_fullwidth  : "About_me.jpg"
 # permalink           : "/about me/"
-permalink           : "/index/"
+# permalink           : "/index/"
+permalink: /index.html
 
 
 toc: true
