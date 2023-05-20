@@ -18,10 +18,12 @@
   url: "/index/"
   side: right
 
-- title: About me
-#- title: Documentation
-  url: "/about me/"
-  side: right
+# - title: About me
+# #- title: Documentation
+#   url: "/about me/"
+#   side: right
+
+
   # dropdown:
   # - title: "projects"
   #   url: "/projects/"

@@ -5,7 +5,10 @@ layout              : page-fullwidth
 teaser              : 
 header:
    image_fullwidth  : "About_me.jpg"
-permalink           : "/about me/"
+# permalink           : "/about me/"
+permalink           : "/index/"
+
+
 toc: true
 #  **<font size="5"><span style="color:blue">Interested in joining the SoBA Lab?</span></font>**
 ---

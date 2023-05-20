@@ -6,7 +6,7 @@
 #
 
 layout: frontpage
-permalink: "/index/"
+# permalink: "/index/"
 
 header:
   image_fullwidth: header_unsplash_12.jpg
