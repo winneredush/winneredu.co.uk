@@ -36,13 +36,13 @@
   side: right
   dropdown:
   - title: "Speaker Identification"
-    url: "/research/#speaker-identification"
-  - title: "Vocal Confidence"
-    url: "/research/#vocal-confidence"
-  - title: "Voice Identity Cloning and Speech Style Cloning"
-    url: "/research/#voice-identity"
-  - title: "AI-generated Human Avatars"
-    url: "/research/#ai-generated-avatars"
+    url: "/research_speaker_identification/"
+  # - title: "Vocal Confidence"
+  #   url: "/research/#vocal-confidence"
+  # - title: "Voice Identity Cloning and Speech Style Cloning"
+  #   url: "/research/#voice-identity"
+  # - title: "AI-generated Human Avatars"
+  #   url: "/research/#ai-generated-avatars"
 
 
 
