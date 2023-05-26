@@ -15,7 +15,7 @@
 
 
 - title: Home
-  url: "/index/"
+  url: /index.html
   side: right
 
 # - title: About me
