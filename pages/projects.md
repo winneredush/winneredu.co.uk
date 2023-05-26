@@ -6,7 +6,7 @@ layout: page-fullwidth
 # teaser: "History and projects of Feeling Responsive Theme"
 header:
   #  image_fullwidth: "header_unsplash_9.jpg"
-   image_fullwidth: "Full-piece-pink-and-purple.jpg"
+   image_fullwidth: "About_me.jpg"
 permalink: "/projects/"
 ---
 
