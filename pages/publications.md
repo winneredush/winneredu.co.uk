@@ -4,7 +4,7 @@ show_meta: false
 # title: "My Publications"
 # subheadline: "Layouts of Feeling Responsive"
 header:
-   image_fullwidth: "Full-piece-pink-and-purple.jpg"
+   image_fullwidth: "About_me.jpg"
 permalink: "/publications/"
 
 ---
