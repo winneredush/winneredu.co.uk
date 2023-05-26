@@ -37,12 +37,12 @@
   dropdown:
   - title: "Speaker Identification"
     url: "/research_speaker_identification/"
-  # - title: "Vocal Confidence"
-  #   url: "/research/#vocal-confidence"
-  # - title: "Voice Identity Cloning and Speech Style Cloning"
-  #   url: "/research/#voice-identity"
-  # - title: "AI-generated Human Avatars"
-  #   url: "/research/#ai-generated-avatars"
+  - title: "Vocal Confidence"
+    url: "/research_speaker_to_be_added/"
+  - title: "Voice Identity Cloning and Speech Style Cloning"
+    url: "/research_speaker_to_be_added/"
+  - title: "AI-generated Human Avatars"
+    url: "/research_speaker_to_be_added/"
 
 
 
@@ -53,16 +53,23 @@
   - title: "AI and Human Speech"
     url: "/research/#speaker-identification"
   - title: "Audio Analysis"
-    url: "/research/#speaker-identification"
+    url: "/research_speaker_to_be_added/"
+    # url: "/research/#speaker-identification"
   - title: "Perception Studies"
-    url: "/research/#speaker-identification"
+    # url: "/research/#speaker-identification"
+    url: "/research_speaker_to_be_added/"
   - title: "AX Discrimination"
-    url: "/research/#speaker-identification"
+    url: "/research_speaker_to_be_added/"
+    # url: "/research/#speaker-identification"
 
 
 - title: Publications
   url: "/publications/"
   side: right
+
+- title: Contact
+#   url: "/contact/"
+#   side: right
 
 # - title: "People"
 #   url: "/people/"
@@ -85,9 +92,7 @@
 #   url: "/search/"
 #   side: right
 
-- title: Contact
-  url: "/contact/"
-  side: right
+# 
 
 
 # - title: Home
