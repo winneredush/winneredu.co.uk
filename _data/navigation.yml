@@ -41,8 +41,8 @@
     url: "/speaker_identification/"
   - title: "Vocal Confidence"
     url: "/vocal_confidence/"
-  - title: "Voice Identity Cloning and Speech Style Cloning"
-    url: "/research_speaker_to_be_added/"
+  - title: "Voice Cloning"
+    url: "/voice_cloning/"
   - title: "AI-generated Human Avatars"
     url: "/research_speaker_to_be_added/"
 
