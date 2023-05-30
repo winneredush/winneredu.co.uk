@@ -32,15 +32,15 @@
 
 
 - title: Relevant Topics
-  url: "/research_speaker_identification/"
+  url: "/speaker_identification/"
   # url: "/research/"
 
   side: right
   dropdown:
   - title: "Speaker Identification"
-    url: "/research_speaker_identification/"
+    url: "/speaker_identification/"
   - title: "Vocal Confidence"
-    url: "/research_speaker_to_be_added/"
+    url: "/vocal_confidence/"
   - title: "Voice Identity Cloning and Speech Style Cloning"
     url: "/research_speaker_to_be_added/"
   - title: "AI-generated Human Avatars"

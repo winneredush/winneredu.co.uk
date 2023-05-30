@@ -1,4 +1,4 @@
-- menu_name: "Services"
+- menu_name: "Social Media"
 
 # - name: "Contact"
 #   url: "/contact/"
@@ -12,6 +12,5 @@
 #   url: "/atom.xml"
 #   title: "Subscribe to Atom Feed"
 
-# - name: "sitemap.xml"
-#   url: "/sitemap.xml"
-#   title: "Sitemap for Google Webmaster Tools"
+- name: "Twitter"
+  url: "https://twitter.com/wenjunchen_alex"
