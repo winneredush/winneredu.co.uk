@@ -10,7 +10,7 @@ permalink: "/funding/"
 ---
 <!-- https://raw.githubusercontent.com/wenjunchen29/web/ca227c12e296d8d1493b3843cd8d55ba830add7f/images/logo.png -->
 
-<img class="main-image" src="{{ site.urlimg }}funding.png" alt="">
+<img class="main-image" src="https://raw.githubusercontent.com/wenjunchen29/web/main/images/funding.png" alt="">
 
 
 <!-- 'https://raw.githubusercontent.com/wenjunchen29/web/main/images/funding.png' -->
