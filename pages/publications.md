@@ -21,7 +21,7 @@ permalink: "/publications/"
   <h3 id="In Press / 2023">In Press / 2023</h3>
   <u1>
     <li><strong>Chen, W</strong>., Hu, Y. & Jiang, X. (In Press). A social psycholinguistics perspective: encoding and decoding mechanisms for speakers’ individual and group identities. <em>The Journal of Foreign Languages</em>. 
-    <a href="https://scholar.google.co.uk/citations?view_op=view_citation&hl=zh-TW&user=iF2CM7sAAAAJ&sortby=pubdate&citation_for_view=iF2CM7sAAAAJ:DwWRdx-KAo4C" target="_blank"><span style="background-color:yellow">Google Scholar</span> | <a href="https://raw.githubusercontent.com/wenjunchen29/web/40774f46ccd4160a277211f0ede2b4d6d473331d/files/CN.pdf"><span style="background-color:yellow" target="_blank">pdf in Chinese</span> | <a href="https://raw.githubusercontent.com/wenjunchen29/web/40774f46ccd4160a277211f0ede2b4d6d473331d/files/Publication1+Literature+Review+CN+Version.pdf" target="_blank"><span style="background-color:yellow">pdf in English</span>
+    <a href="https://scholar.google.co.uk/citations?view_op=view_citation&hl=zh-TW&user=iF2CM7sAAAAJ&sortby=pubdate&citation_for_view=iF2CM7sAAAAJ:DwWRdx-KAo4C" target="_blank"><span style="background-color:yellow">Google Scholar</span> | <a href="https://raw.githubusercontent.com/wenjunchen29/web/40774f46ccd4160a277211f0ede2b4d6d473331d/files/files/Publication1_Literature_Review_English_Version.pdf"><span style="background-color:yellow" target="_blank">pdf in Chinese</span> | <a href="https://raw.githubusercontent.com/wenjunchen29/web/40774f46ccd4160a277211f0ede2b4d6d473331d/files/files/Publication1_Literature_Review_Chinese_Version.pdf" target="_blank"><span style="background-color:yellow">pdf in English</span>
   <u1>
  Publication1+Literature+Review+CN+Version
   <!-- </ul>
