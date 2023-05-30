@@ -1,4 +1,4 @@
-- menu_name: "Social Media"
+- menu_name: "Relevant information"
 
 # - name: "Contact"
 #   url: "/contact/"
@@ -12,5 +12,15 @@
 #   url: "/atom.xml"
 #   title: "Subscribe to Atom Feed"
 
-- name: "Twitter"
-  url: "https://twitter.com/wenjunchen_alex"
+
+- name: "Shanghai International Studies University"
+  url: "https://en.wikipedia.org/wiki/Shanghai_International_Studies_University"
+
+- name: "Heilongjiang University"
+  url: "https://en.wikipedia.org/wiki/Heilongjiang_University"
+
+- name: "Lab PI: Prof. Xiaolin Zhou"
+  url: "https://www.researchgate.net/profile/Xiaolin-Zhou-8"
+
+- name: "Supervisor: Prof. Xiaoming Jiang"
+  url: "https://www.researchgate.net/profile/Xiaoming-Jiang-3"
