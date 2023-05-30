@@ -67,6 +67,10 @@
   url: "/publications/"
   side: right
 
+- title: Funding
+  url: "/funding/"
+  side: right
+
 - title: Contact
 #   url: "/contact/"
 #   side: right
