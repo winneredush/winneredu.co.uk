@@ -7,19 +7,19 @@ show_meta           : false
 # teaser              : "This step-by-step guide helps you to customize Feeling Responsive to your needs."
 header:
    image_fullwidth: "About_me.jpg"
-permalink           : "/AI_avatar/"
+permalink           : "/AI_avatar_and_learning_sciences/"
 ---
 
-<h2 id="voice_cloning"><font size="5"><span style="color:blue">Voice Cloning</span></font></h2>
+<h2 id="voice_cloning"><font size="5"><span style="color:blue">Voice Cloning and Learning Sciences</span></font></h2>
 
-AI avatar in video is a technology that creates realistic and natural-looking digital characters that can speak and interact in videos using artificial intelligence. It can either copy the appearance and voice of a real person or generate a new persona from scratch. AI avatar in video has various applications, such as movies, games, virtual reality, education, marketing, and more. Some of the popular service providers for this technology are: DeepBrain AI, Yepic, Synthesia, Elai.io, and Voice.AI. However, the perception and effectiveness of AI avatar in video are still unclear and need further research.
+AI avatar in the video is a technology that creates realistic and natural-looking digital characters that can speak and interact in videos using artificial intelligence. It can either copy the appearance and voice of a real person or generate a new persona from scratch. AI avatar in the video has various applications, such as movies, games, virtual reality, education, marketing, and more. Some of the popular service providers for this technology are DeepBrain AI, Yepic, Synthesia, Elai.io, and Voice.AI. However, the perception and effectiveness of AI avatars in the video are still unclear and need further research. 
+<br><br>It triggers research questions in learning sciences in several specific topics, for example, how does AI avatar in video affect learners’ (1) emotional regulation and resilience in stressful learning situations, (2) language acquisition and communication skills in multilingual learning environments, (3) cultural identity and sense of belonging in diverse learning communities, (4) perspective-taking and empathy in collaborative learning tasks, and (5) creativity and self-expression in artistic learning projects?
 
-
-<div class="flex-video"><iframe width="1280" height="720" src="https://www.youtube.com/embed/nb3R30b-uhc" frameborder="0" allowfullscreen></iframe></div><!-- /.flex-video -->
+<div class="flex-video"><iframe width="1280" height="720" src="https://www.youtube.com/embed/eL2W_2_fQ1M" frameborder="0" allowfullscreen></iframe></div><!-- /.flex-video -->
 
 <div id="videoModal" class="reveal-modal large" data-reveal="">
   <div class="flex-video widescreen vimeo" style="display: block;">
-    <iframe width="1280" height="720" src="https://www.youtube.com/embed/nb3R30b-uhc" frameborder="0" allowfullscreen></iframe>
+    <iframe width="1280" height="720" src="https://www.youtube.com/embed/eL2W_2_fQ1M" frameborder="0" allowfullscreen></iframe>
   </div>
   <a class="close-reveal-modal">&#215;</a>
 </div>
@@ -42,12 +42,17 @@ AI avatar in video is a technology that creates realistic and natural-looking di
   </style>
 
   <ul class="reference">
-    <li>Gampe, A., Zahner-Ritter, K., Müller, J. J., & Schmid, S. R. (2023). How children speak with their voice assistant Sila depends on what they think about her. <strong><em>Computers in Human Behavior</em></strong>, 143, 107693. 
-    <li>Kuriki, S., Tamura, Y., Igarashi, M., Kato, N., & Nakano, T. (2016). Similar impressions of humanness for human and artificial singing voices in autism spectrum disorders. <strong><em>Cognition</em></strong>, 153, 1-5. 
-    <li>Mullennix, J. W., Stern, S. E., Wilson, S. J., & Dyson, C.-l. (2003). Social perception of male and female computer synthesized speech. <strong><em>Computers in Human Behavior</em></strong>, 19(4), 407-424. 
-    <li>Rodero, E. (2017). Effectiveness, attention, and recall of human and artificial voices in an advertising story. Prosody influence and functions of voices. <strong><em>Computers in Human Behavior</em></strong>, 77, 336-346. 
-    <li>Tamagawa, R., Watson, C. I., Kuo, I. H., MacDonald, B. A., & Broadbent, E. (2011). The effects of synthesized voice accents on user perceptions of robots. <strong><em>International Journal of Social Robotics</em></strong>, 3(3), 253-262. 
-    <li>Tamura, Y., Kuriki, S., & Nakano, T. (2015). Involvement of the left insula in the ecological validity of the human voice. <strong><em>Scientific reports</em></strong>, 5(1), 1-7. 
+   <li>Butt, A. H., Ahmad, H., Goraya, M. A. S., Akram, M. S., & Shafique, M. N. (2021). Let's play: Me and my AI‐powered avatar as one team. <strong><em>Psychology & Marketing</em></strong>, 38(6), 1014-1025. 
+   <li>Butt, A. H., Ahmad, H., & Shafique, M. N. (2021). AI-Powered “Voice Recognition Avatar”: A New Way to Play Games. International <strong><em>Journal of Gaming and Computer-Mediated Simulations (IJGCMS)</em></strong>, 13(3), 1-17. 
+   <li>Fiske, A., Henningsen, P., & Buyx, A. (2019). Your robot therapist will see you now: ethical implications of embodied artificial intelligence in psychiatry, psychology, and psychotherapy. <strong><em>Journal of medical Internet research</em></strong>, 21(5), e13216. 
+   <li>Gonzalez-Franco, M., & Peck, T. C. (2018). Avatar embodiment. towards a standardized questionnaire. <strong><em>Frontiers in Robotics and AI</em></strong>, 5, 74. 
+   <li>Haginoya, S., Ibe, T., Yamamoto, S., Yoshimoto, N., Mizushi, H., & Santtila, P. (2023). AI avatar tells you what happened: The first test of using AI-operated children in simulated interviews to train investigative interviewers. <strong><em>Frontiers in psychology</em></strong>, 14, 579. 
+   <li>Kohnke, L., Moorhouse, B. L., & Zou, D. (2023). ChatGPT for Language Teaching and Learning. <strong><em>RELC Journal</em></strong>, 00336882231162868. 
+   <li>Kostenko, O. V. (2022). Electronic jurisdiction, metaverse, artificial intelligence, digital personality, digital avatar, neural networks: theory, practice, perspective. <strong><em>World Science</em></strong>(1 (73)). 
+   <li>Miao, F., Kozlenkova, I. V., Wang, H., Xie, T., & Palmatier, R. W. (2022). An emerging theory of avatar marketing. <strong><em>Journal of Marketing</em></strong>, 86(1), 67-90. 
+   <li>Moriuchi, E. (2022). Leveraging the science to understand factors influencing the use of AI-powered avatar in healthcare services. <strong><em>Journal of Technology in Behavioral Science</em></strong>, 7(4), 588-602. 
+
+
 
   <ul>
 
