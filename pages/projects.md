@@ -24,21 +24,20 @@ permalink: "/projects_AIvsH/"
 
 <!-- </body> -->
 
-| confidence.vs.source | human male | AI male |
+| Confidence.vs.Source | Human Male | AI Male |
 | --- | --- | --- |
-| confident | [<audio src="https://raw.githubusercontent.com/wenjunchen29/web/main/files/audios/2_h_m_c_hw_21.wav" type="audio/wav" controls></audio>](https://raw.githubusercontent.com/wenjunchen29/web/main/files/audios/2_h_m_c_hw_21.wav) | [<audio src="https://raw.githubusercontent.com/wenjunchen29/web/main/files/audios/2_ai_m_c_hw_g_21.wav" type="audio/wav" controls></audio>](https://raw.githubusercontent.com/wenjunchen29/web/main/files/audios/2_ai_m_c_hw_g_21.wav) |
-| doubtful | [<audio src="https://raw.githubusercontent.com/wenjunchen29/web/main/files/audios/2_h_m_d_hw_21.wav" type="audio/wav" controls></audio>](https://raw.githubusercontent.com/wenjunchen29/web/main/files/audios/2_h_m_d_hw_21.wav) | [<audio src="https://raw.githubusercontent.com/wenjunchen29/web/main/files/audios/2_ai_m_d_hw_g_21.wav" type="audio/wav" controls></audio>](https://raw.githubusercontent.com/wenjunchen29/web/main/files/audios/2_ai_m_d_hw_g_21.wav) |
-| neutral | [<audio src="https://raw.githubusercontent.com/wenjunchen29/web/main/files/audios/2_h_m_n_hw_21.wav" type="audio/wav" controls></audio>](https://raw.githubusercontent.com/wenjunchen29/web/main/files/audios/2_h_m_n_hw_21.wav) | [<audio src="https://raw.githubusercontent.com/wenjunchen29/web/main/files/audios/2_ai_m_n_hw_g_21.wav" type="audio/wav" controls></audio>](https://raw.githubusercontent.com/wenjunchen29/web/main/files/audios/2_ai_m_n_hw_g_21.wav) |
-
+| Confident | [<audio src="{{ site.url }}{{ site.baseurl }}/files/audios/2_h_m_c_hw_21.wav" type="audio/wav" controls></audio>]({{ site.url }}{{ site.baseurl }}/files/audios/2_h_m_c_hw_21.wav) | [<audio src="{{ site.url }}{{ site.baseurl }}/files/audios/2_ai_m_c_hw_g_21.wav" type="audio/wav" controls></audio>]({{ site.url }}{{ site.baseurl }}/files/audios/2_ai_m_c_hw_g_21.wav) |
+| Doubtful | [<audio src="{{ site.url }}{{ site.baseurl }}/files/audios/2_h_m_d_hw_21.wav" type="audio/wav" controls></audio>]({{ site.url }}{{ site.baseurl }}/files/audios/2_h_m_d_hw_21.wav) | [<audio src="{{ site.url }}{{ site.baseurl }}/files/audios/2_ai_m_d_hw_g_21.wav" type="audio/wav" controls></audio>]({{ site.url }}{{ site.baseurl }}/files/audios/2_ai_m_d_hw_g_21.wav) |
+| Neutral | [<audio src="{{ site.url }}{{ site.baseurl }}/files/audios/2_h_m_n_hw_21.wav" type="audio/wav" controls></audio>]({{ site.url }}{{ site.baseurl }}/files/audios/2_h_m_n_hw_21.wav) | [<audio src="{{ site.url }}{{ site.baseurl }}/files/audios/2_ai_m_n_hw_g_21.wav" type="audio/wav" controls></audio>]({{ site.url }}{{ site.baseurl }}/files/audios/2_ai_m_n_hw_g_21.wav) |
 
 <h2 id="AIvsHuman-f"><font size="5"><span style="color:blue">Females: Speech by Voice-cloning AI and Human</span></font> <a href="#table-of-contents" style="font-size:10px;">(back to top)</a></h2>
 
 <!-- </body> -->
 
-| confidence.vs.source | human female | AI female |
+| Confidence.vs.Source | Human Male | AI Male |
 | --- | --- | --- |
-| confident | [<audio src="https://raw.githubusercontent.com/wenjunchen29/web/main/files/audios/9_h_f_c_hw_20.wav" type="audio/wav" controls></audio>](https://raw.githubusercontent.com/wenjunchen29/web/main/files/audios/2_h_m_c_hw_21.wav) | [<audio src="https://raw.githubusercontent.com/wenjunchen29/web/main/files/audios/9_ai_f_c_hw_g_20.wav" type="audio/wav" controls></audio>](https://raw.githubusercontent.com/wenjunchen29/web/main/files/audios/9_ai_f_c_hw_g_20.wav) |
-| doubtful | [<audio src="https://raw.githubusercontent.com/wenjunchen29/web/main/files/audios/9_h_f_d_hw_20.wav" type="audio/wav" controls></audio>](https://raw.githubusercontent.com/wenjunchen29/web/main/files/audios/2_h_m_d_hw_21.wav) | [<audio src="https://raw.githubusercontent.com/wenjunchen29/web/main/files/audios/9_ai_f_d_hw_g_20.wav" type="audio/wav" controls></audio>](https://raw.githubusercontent.com/wenjunchen29/web/main/files/audios/9_ai_f_d_hw_g_20.wav) |
-| neutral | [<audio src="https://raw.githubusercontent.com/wenjunchen29/web/main/files/audios/9_h_f_n_hw_20.wav" type="audio/wav" controls></audio>](https://raw.githubusercontent.com/wenjunchen29/web/main/files/audios/2_h_m_n_hw_21.wav) | [<audio src="https://raw.githubusercontent.com/wenjunchen29/web/main/files/audios/9_ai_f_n_hw_g_20.wav" type="audio/wav" controls></audio>](https://raw.githubusercontent.com/wenjunchen29/web/main/files/audios/9_ai_f_n_hw_g_20.wav) |
+| Confident | [<audio src="{{ site.url }}{{ site.baseurl }}/files/audios/9_h_f_c_hw_20.wav" type="audio/wav" controls></audio>]({{ site.url }}{{ site.baseurl }}/files/audios/2_h_m_c_hw_21.wav) | [<audio src="{{ site.url }}{{ site.baseurl }}/files/audios/9_ai_f_c_hw_g_20.wav" type="audio/wav" controls></audio>]({{ site.url }}{{ site.baseurl }}/files/audios/9_ai_f_c_hw_g_20.wav) |
+| Doubtful | [<audio src="{{ site.url }}{{ site.baseurl }}/files/audios/9_h_f_d_hw_20.wav" type="audio/wav" controls></audio>]({{ site.url }}{{ site.baseurl }}/files/audios/2_h_m_d_hw_21.wav) | [<audio src="{{ site.url }}{{ site.baseurl }}/files/audios/9_ai_f_d_hw_g_20.wav" type="audio/wav" controls></audio>]({{ site.url }}{{ site.baseurl }}/files/audios/9_ai_f_d_hw_g_20.wav) |
+| Neutral | [<audio src="{{ site.url }}{{ site.baseurl }}/files/audios/9_h_f_n_hw_20.wav" type="audio/wav" controls></audio>]({{ site.url }}{{ site.baseurl }}/files/audios/2_h_m_n_hw_21.wav) | [<audio src="{{ site.url }}{{ site.baseurl }}/files/audios/9_ai_f_n_hw_g_20.wav" type="audio/wav" controls></audio>]({{ site.url }}{{ site.baseurl }}/files/audios/9_ai_f_n_hw_g_20.wav) |
 
 
