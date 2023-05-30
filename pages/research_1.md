@@ -24,7 +24,7 @@ permalink           : "/speaker_identification/"
   <a class="close-reveal-modal">&#215;</a>
 </div>
 
- 
+
  
 <br><br><strong>Reference</strong>
 <!-- <div class="reference"> -->
