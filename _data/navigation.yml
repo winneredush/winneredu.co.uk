@@ -32,7 +32,9 @@
 
 
 - title: Relevant Topics
-  url: "/research/"
+  url: "/research_speaker_identification/"
+  # url: "/research/"
+
   side: right
   dropdown:
   - title: "Speaker Identification"
@@ -47,11 +49,11 @@
 
 
 - title: Research Projects
-  url: "/projects/"
+  url: "/projects_AIvsH/"
   side: right
   dropdown:
   - title: "AI and Human Speech"
-    url: "/research/#speaker-identification"
+    url: "/projects_AIvsH/"
   - title: "Audio Analysis"
     url: "/research_speaker_to_be_added/"
     # url: "/research/#speaker-identification"
