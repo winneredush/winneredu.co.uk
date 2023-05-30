@@ -4,7 +4,7 @@ layout              : page-fullwidth
 # subheadline         : "ToDo-List &amp; Ideas"
 teaser              : 
 header:
-   image_fullwidth  : "About_me.jpg"
+   image_fullwidth: "About_me.jpg"
 # permalink           : "/about me/"
 # permalink           : "/index/"
 permalink: /index.html
