@@ -1,6 +1,5 @@
 ---
-# layout              : page-fullwidth
-layout              : page
+layout              : page-fullwidth
 show_meta           : false
 # title               : "Getting Started in 10 Steps"
 # subheadline         : "A Step-by-Step Guide"
@@ -12,8 +11,9 @@ permalink           : "/AI_avatar_and_learning_sciences/"
 <h2 id="voice_cloning"><font size="5"><span style="color:blue">Voice Cloning & Learning Sciences</span></font></h2>
 
 AI avatar in the video is a technology that creates realistic and natural-looking digital characters that can speak and interact in videos using artificial intelligence. It can either copy the appearance and voice of a real person or generate a new persona from scratch. AI avatar in the video has various applications, such as movies, games, virtual reality, education, marketing, and more. Some of the popular service providers for this technology are DeepBrain AI, Yepic, Synthesia, Elai.io, and Voice.AI. However, the perception and effectiveness of AI avatars in the video are still unclear and need further research. 
-<br><br>It triggers research questions in learning sciences in several specific topics, for example, how does AI avatar in video affect learners’ (1) emotional regulation and resilience in stressful learning situations, (2) language acquisition and communication skills in multilingual learning environments, (3) cultural identity and sense of belonging in diverse learning communities, (4) perspective-taking and empathy in collaborative learning tasks, and (5) creativity and self-expression in artistic learning projects?
+<br><br>It triggers research questions in learning sciences in several specific topics, for example, how does AI avatar in video affect learners’ (1) emotional regulation and resilience in stressful learning situations, (2) language acquisition and communication skills in multilingual learning environments, (3) cultural identity and sense of belonging in diverse learning communities, (4) perspective-taking and empathy in collaborative learning tasks, and (5) creativity and self-expression in artistic learning projects?  <br><br>
 
+<div style="width: 60%; margin: auto;">
 <div class="flex-video"><iframe width="1280" height="720" src="https://www.youtube.com/embed/eL2W_2_fQ1M" frameborder="0" allowfullscreen></iframe></div><!-- /.flex-video -->
 
 <div id="videoModal" class="reveal-modal large" data-reveal="">
@@ -21,6 +21,7 @@ AI avatar in the video is a technology that creates realistic and natural-lookin
     <iframe width="1280" height="720" src="https://www.youtube.com/embed/eL2W_2_fQ1M" frameborder="0" allowfullscreen></iframe>
   </div>
   <a class="close-reveal-modal">&#215;</a>
+</div>
 </div>
 
 <br><br><strong>Reference</strong>

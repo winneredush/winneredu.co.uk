@@ -1,6 +1,5 @@
 ---
-# layout              : page-fullwidth
-layout              : page
+layout              : page-fullwidth
 show_meta           : false
 # title               : "Getting Started in 10 Steps"
 # subheadline         : "A Step-by-Step Guide"
@@ -13,8 +12,9 @@ permalink           : "/voice_cloning/"
 <h2 id="voice_cloning"><font size="5"><span style="color:blue">Voice Cloning</span></font></h2>
 
 Have you ever wondered what it would be like to have your own voice assistant that sounds just like you? Or to create a podcast with the voice of your favorite celebrity? Or to make your characters speak in any language with any emotion? Well, now we can, thanks to voice cloning. Voice cloning is a technology that can copy and modify any voice, using only a few seconds of speech. It can create realistic and natural-sounding voiceovers for various purposes, such as IVR, advertisements, audiobooks, and more. Here are some popular services: <a href="https://vocloner.com/" target="_blank">Vocloner</a>, <a href="https://www.resemble.ai/" target="_blank">Resemble AI</a>, <a href="https://murf.ai/voice-cloning" target="_blank">Murf</a>, and <a href="https://voice.ai/voice-cloning" target="_blank">Voice.AI</a>. 
-<br><br>But, as such technology becomes easily available, how do we human listeners react to it? Importantly, such tools do have the potential to address the current research gap in AI voice perception studies in human-computer interaction: they yet construct comparable speech by AI and human speakers that resemble in terms of both vocal identity and vocal emotion. 
+<br><br>But, as such technology becomes easily available, how do we human listeners react to it? Importantly, such tools do have the potential to address the current research gap in AI voice perception studies in human-computer interaction: they yet construct comparable speech by AI and human speakers that resemble in terms of both vocal identity and vocal emotion.  <br><br>
 
+<div style="width: 60%; margin: auto;">
 <div class="flex-video"><iframe width="1280" height="720" src="https://www.youtube.com/embed/nb3R30b-uhc" frameborder="0" allowfullscreen></iframe></div><!-- /.flex-video -->
 
 <div id="videoModal" class="reveal-modal large" data-reveal="">
@@ -23,6 +23,8 @@ Have you ever wondered what it would be like to have your own voice assistant th
   </div>
   <a class="close-reveal-modal">&#215;</a>
 </div>
+</div>
+
 
 <br><br><strong>Reference</strong>
 <!-- <div class="reference"> -->

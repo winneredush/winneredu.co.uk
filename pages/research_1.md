@@ -1,6 +1,6 @@
 ---
 # layout              : page-fullwidth
-layout              : page
+layout              : page-fullwidth
 show_meta           : false
 # title               : "Getting Started in 10 Steps"
 # subheadline         : "A Step-by-Step Guide"
@@ -13,8 +13,11 @@ permalink           : "/speaker_identification/"
 <h2 id="speaker-identification"><font size="5"><span style="color:blue">Speaker Identification</span></font></h2>
 
  How can we recognize someone’s voice even if we don’t see their face? How do we know who is speaking when we listen to a podcast or a phone call? How can machines do the same thing? These are some of the questions that speaker identification tries to answer. Speaker identification is the task of determining who is speaking in an audio clip by using voice biometry. 
- <br><br>It is based on the idea that each speaker has unique voice characteristics that can be extracted and compared with a set of enrolled speaker profiles. Speaker identification can be useful for various applications, such as remote meeting productivity, multiuser device personalization, and forensic analysis. Speaker identification is the basis for more complicated person perceptions in social interaction. 
- 
+ <br><br>It is based on the idea that each speaker has unique voice characteristics that can be extracted and compared with a set of enrolled speaker profiles. Speaker identification can be useful for various applications, such as remote meeting productivity, multiuser device personalization, and forensic analysis. Speaker identification is the basis for more complicated person perceptions in social interaction.  <br><br>
+
+
+<div style="width: 60%; margin: auto;">
+
 <div class="flex-video"><iframe width="1280" height="720" src="https://www.youtube.com/embed/YCxPI8ckAXg" frameborder="0" allowfullscreen></iframe></div><!-- /.flex-video -->
 
 <div id="videoModal" class="reveal-modal large" data-reveal="">
@@ -22,6 +25,7 @@ permalink           : "/speaker_identification/"
     <iframe width="1280" height="720" src="https://www.youtube.com/embed/YCxPI8ckAXg" frameborder="0" allowfullscreen></iframe>
   </div>
   <a class="close-reveal-modal">&#215;</a>
+</div>
 </div>
 
 

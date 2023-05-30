@@ -1,6 +1,5 @@
 ---
-# layout              : page-fullwidth
-layout              : page
+layout              : page-fullwidth
 show_meta           : false
 # title               : "Getting Started in 10 Steps"
 # subheadline         : "A Step-by-Step Guide"
@@ -17,11 +16,13 @@ Vocal confidence is a skill that we need to communicate effectively and persuasi
 
 <div class="flex-video"><iframe width="1280" height="720" src="https://www.youtube.com/embed/5YVV6enLISU" frameborder="0" allowfullscreen></iframe></div><!-- /.flex-video -->
 
+<div style="width: 60%; margin: auto;">
 <div id="videoModal" class="reveal-modal large" data-reveal="">
   <div class="flex-video widescreen vimeo" style="display: block;">
     <iframe width="1280" height="720" src="https://www.youtube.com/embed/5YVV6enLISU" frameborder="0" allowfullscreen></iframe>
   </div>
   <a class="close-reveal-modal">&#215;</a>
+</div>
 </div>
 
 <br><br><strong>Reference</strong>
