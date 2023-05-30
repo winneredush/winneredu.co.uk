@@ -50,15 +50,3 @@ Vocal confidence is a skill that we need to communicate effectively and persuasi
 
 
   <ul>
-<!-- </div> -->
-
-<!-- <div class="flex-video"><iframe width="1200" height="720" src="https://www.youtube.com/embed/YCxPI8ckAXg" frameborder="0" allowfullscreen></iframe></div>
-
-<div id="videoModal" class="reveal-modal large" data-reveal="">
-  <div class="flex-video widescreen vimeo" style="display: block;">
-    <iframe width="1280" height="720" src="https://www.youtube.com/embed/YCxPI8ckAXg" frameborder="0" allowfullscreen></iframe>
-  </div>
-  <a class="close-reveal-modal">&#215;</a>
-</div> -->
-
-
