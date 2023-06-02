@@ -9,7 +9,6 @@ url: 		'https://github.com/wenjunchen29/web'
 baseurl: 	''
 urlimg: 	'https://raw.githubusercontent.com/wenjunchen29/web/main/images/'
 # urlaudio: 'https://raw.githubusercontent.com/wenjunchen29/web/main/files/audios/'
-urlfile: 	'https://raw.githubusercontent.com/wenjunchen29/web/main/files/'
 
 
 # See › https://github.com/jekyll/jekyll-gist#disabling-noscript-support
@@ -26,4 +25,4 @@ sass:
   # sourcemap: true # Produces an error
 
 # Disable when not in production
-google_analytics_tracking_id: false
+google_analytics_tracking_id: true
