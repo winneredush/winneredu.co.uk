@@ -24,5 +24,7 @@ sass:
   # FUTURE https://github.com/jekyll/jekyll-sass-converter/issues/12
   # sourcemap: true # Produces an error
 
-# Disable when not in production false before
-google_analytics_tracking_id: true
+# Disable when not in production 
+google_analytics_tracking_id: G-V5GSW92ZRE
+
+# google_analytics_tracking_id: false
