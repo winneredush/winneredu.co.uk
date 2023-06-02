@@ -89,3 +89,14 @@ Fifth, I have some preliminary thoughts about researching <a href="https://www.y
 
 ----
 <span style="color:green">Note. This website is not necessarily perfect and is under developing. Viewing it with browser on PC is recommended.</span>
+
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-V5GSW92ZRE"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-V5GSW92ZRE');
+</script>
