@@ -1,6 +1,6 @@
 ---
 layout              : page-fullwidth
-# title               : "About me"
+title               : "About me | Wenjun Chen"
 # subheadline         : "ToDo-List &amp; Ideas"
 teaser              : 
 header:
@@ -89,4 +89,3 @@ Fifth, I have some preliminary thoughts about researching <a href="https://www.y
 
 ----
 <span style="color:green">Note. This website is not necessarily perfect and is under developing. Viewing it with browser on PC is recommended.</span>
-
