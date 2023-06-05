@@ -2,7 +2,7 @@
 # layout              : page-fullwidth
 layout              : page-fullwidth
 show_meta           : false
-title               : "Research | Wenjun Chen"
+# title               : "Research | Wenjun Chen"
 # subheadline         : "A Step-by-Step Guide"
 # teaser              : "This step-by-step guide helps you to customize Feeling Responsive to your needs."
 header:

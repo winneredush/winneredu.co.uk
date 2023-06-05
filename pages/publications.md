@@ -1,7 +1,7 @@
 ---
 layout: page-fullwidth
 show_meta: false
-title: "Publications | Wenjun Chen"
+# title: "Publications | Wenjun Chen"
 # subheadline: "Layouts of Feeling Responsive"
 header:
    image_fullwidth: "About_me.jpg"

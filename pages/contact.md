@@ -1,6 +1,6 @@
 ---
 layout              : page-fullwidth
-title               : "Contact | Wenjun Chen"
+# title               : "Contact | Wenjun Chen"
 #meta_title          : "Contact and use our contact form"
 #subheadline         : "Contact Form"
 header:
