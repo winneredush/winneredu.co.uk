@@ -12,7 +12,7 @@ permalink: "/projects_AIvsH/"
 
 <!-- <body> -->
 
-<h1 id="table-of-contents">Table of Contents</h1>
+<h1 id="table-of-contents">Emotive speech samples by AI and human</h1>
 <ol>
   <li><a href="#AIvsHuman-m">Males: Speech by Voice-cloning AI and Human</a></li>
   <li><a href="#AIvsHuman-f">Female: Speech by Voice-cloning AI and Human</a></li>
