@@ -1,6 +1,6 @@
 ---
 layout              : page-fullwidth
-title               : "About me | Wenjun Chen"
+# title               : "About me | Wenjun Chen"
 # subheadline         : "ToDo-List &amp; Ideas"
 teaser              : 
 header:
