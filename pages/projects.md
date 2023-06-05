@@ -1,6 +1,6 @@
 ---
 layout: page-fullwidth
-title: "Projects | Wenjun Chen"
+# title: "Projects | Wenjun Chen"
 # meta_title: "Feeling Responsive Theme projects"
 # subheadline: "Feeling Responsive Theme projects"
 # teaser: "History and projects of Feeling Responsive Theme"
