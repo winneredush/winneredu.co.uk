@@ -66,7 +66,7 @@ toc: true
 
 <div style="width: 70%; margin: auto;">
 
-Language is what bonds people in human-human social communication. <a href="https://www.youtube.com/watch?v=dctcfxw13AQ" target="_blank"><span style="color:blue">But what happens if it is introduced to human-robot interaction?</span></a> Smart voice assistant such as Apple’s Siri has been gaining growing popularity among technology users. Additionally, the algorithm is also showcasing its capacity to clone our speaker identity and alter the speech prosody (which is suspected to exert influence over how human-like an AI voice is). As such, I am conducting a series of research to answer some questions through interdisciplinary approaches.
+Below introduces my endeavours to earn my Master's degree in Foreign Linguistics and Applied Linguistics. Language is what bonds people in human-human social communication. <a href="https://www.youtube.com/watch?v=dctcfxw13AQ" target="_blank"><span style="color:blue">But what happens if it is introduced to human-robot interaction?</span></a> Smart voice assistant such as Apple’s Siri has been gaining growing popularity among technology users. Additionally, the algorithm is also showcasing its capacity to clone our speaker identity and alter the speech prosody (which is suspected to exert influence over how human-like an AI voice is). As such, I am conducting a series of research to answer some questions through interdisciplinary approaches.
 <br><br>
 Firstly, I located <a href="https://www.science.org/doi/10.1126/science.1210277" target="_blank"><span style="color:blue">speaker identity</span></a> as my research topic for my postgraduate degree and have written a literature review, which is now in press with one of the most influential academic journals in linguistics in China. In this work, I introduced how speaker identity is represented by acoustic cues and influenced by social factors such as communicative intentions. To highlight, I noted how individual speaker identity (who is talking) and speaker group identity (what kind of person is that talker) interplay. I pointed out future research directions, such as using person perception experimental paradigms to examine how our human brain responds differently to speech produced by human counterparts and AI speakers that share similar individual speaker identities and emotional states. This endeavour provided me with a theoretical framework for my other projects. 
  <br><br>
@@ -78,7 +78,15 @@ Fourth, I am leading a small group of linguistics undergraduates to investigate 
 
 
 <br><br>
-Fifth, I have some preliminary thoughts about researching <a href="https://www.youtube.com/watch?v=U0HNdsxC8YU&t=248s" target="_blank"><span style="color:blue">AI-generated human avatars</span></a> powered by ChatGPT, taking factors such as culture, language, emotions, and theory of mind into account. EEG, Eye-tracking, and fMRI can be possible research tools. <a href="/web/AI_avatar_and_learning_sciences/">Possible questions about learning sciences can be</a>, for example, how does AI avatar in video affect learners’ (1) emotional regulation and resilience in stressful learning situations, (2) <a href="https://journals.sagepub.com/doi/full/10.1177/00336882231162868" target="_blank"><span style="color:blue">language acquisition</span></a> and communication skills in multilingual learning environments, (3) cultural identity and sense of belonging in diverse learning communities, (4) perspective-taking and empathy in collaborative learning tasks, and (5) creativity and self-expression in artistic learning projects?
+
+
+
+Regarding what comes for my possible doctorate studies, I remain very open to exploring opportunities and possibilities, as I deem myself a positive learner who is always happy to learn more. And I do believe my academic background in psychology, linguistics, and speech sciences, along with my research skills from quantitative studies with programming tools to reasoning skills for academic writing, shall support my advancement. Always learning!
+
+
+
+
+
 </div>
 
 

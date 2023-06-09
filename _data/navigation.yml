@@ -43,8 +43,8 @@
     url: "/vocal_confidence/"
   - title: "Voice Cloning"
     url: "/voice_cloning/"
-  - title: "AI Avatar & Learning Sciences"
-    url: "/AI_avatar_and_learning_sciences/"
+  # - title: "AI Avatar & Learning Sciences"
+  #   url: "/AI_avatar_and_learning_sciences/"
 
 
 
@@ -69,11 +69,11 @@
   url: "/publications/"
   side: right
 
-- title: Funding
-  url: "/funding/"
-  side: right
+# - title: Funding
+#   url: "/funding/"
+#   side: right
 
-- title: Contact
+# - title: Contact
 #   url: "/contact/"
 #   side: right
 
